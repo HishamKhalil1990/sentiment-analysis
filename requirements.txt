@@ -1,0 +1,10 @@
+pandas
+numpy
+sklearn
+seaborn
+nltk
+matplotlib
+mahad
+tokenizers
+demoji
+jupyterlab
