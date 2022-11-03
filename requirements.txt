@@ -8,3 +8,5 @@ mahad
 tokenizers
 demoji
 jupyterlab
+torch
+torchmetrics
